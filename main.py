@@ -2,7 +2,7 @@ from openai import OpenAI
 import requests
 
 # === Cấu hình ===
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 TELEGRAM_TOKEN = "8035399118:AAHj_Misk6wnjHpAbTHkG4_93EAp-l-j_gE"
 TELEGRAM_CHAT_ID = "1533204526"
 
